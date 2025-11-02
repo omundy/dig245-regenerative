@@ -141,7 +141,11 @@ Follow the prompt in Chapter 8 of *Critical Web Design* ...
 
 <details>
 <summary>Past examples</summary>
-  
+
+- 2025
+    - Delila [Magnet Mayhem](https://delila-cruz.github.io/dig245-regenerative/)
+    - Matt [What is your fortune today?](https://matthewpearso.github.io/dig245-regenerative/)
+    - Dmytro [Pixel Chronicles](https://dmku33.github.io/web-dev-regenerative-design/)
 - 2024
 	- Julia [Queer Anthem Generator](https://siqjulia.github.io/dig245-regenerative/)
 	- Whitney [Cat Timer](https://winne-inne.github.io/dig245-regenerative/)
@@ -155,7 +159,7 @@ Follow the prompt in Chapter 8 of *Critical Web Design* ...
     - Nam [OptiMedia Networks (OMN)](https://namdao2508.github.io/dig245-regenerative/)
     - Meredith [Your Future in 10](https://merhaines.github.io/dig245-regenerative/)
     <!-- - Patrick [Island Adventure](https://patrick-leary.github.io/dig245-regenerative/) -->
-    <!-- - Erika [Music Generator](https://erikan14.github.io/dig245-regenerative/)† -->
+    <!-- - Erika [Music Generator](https://erikan14.github.io/dig245-regenerative/) 😿 -->
 - 2021
     - Annelise [Road Trip](https://anclaire.github.io/dig245-regenerative)
     - Drew [Probability Football](https://drdibble.github.io/dig245-regenerative)
@@ -167,15 +171,12 @@ Follow the prompt in Chapter 8 of *Critical Web Design* ...
     - Caroline [SPOOK-IFY](https://casigl.github.io/dig245-regenerative)
     - Anh [Ghibli Movie Generator](https://anhhoang1402.github.io/dig245-regenerative)
 - Past
-    - Amy [Game Boy]
-    - Eric [Washing Machine]
-- 2009
-    - Jose [Band Name Generator](https://www.youtube.com/watch?v=mUeBQCInZ2o&list=PLhpnnpt3tw-RiiFG9p_OJgjAfH-6kyAIK&index=16)
-- 2008
-    - Rachel [Random Paint Splatter]
-- 2007
-    - Alexander [String Art Generator]
+    - Amy *Game Boy* 2009
+    - Eric *PHP Washing Machine* 2009
+    - Jose [Band Name Generator](https://www.youtube.com/watch?v=mUeBQCInZ2o&list=PLhpnnpt3tw-RiiFG9p_OJgjAfH-6kyAIK&index=16) 2009
+    - Rachel *Random Paint Splatter* 2008
+    - Alexander *String Art Generator* 2007
 
-†not currently live
+😿 not currently live
 
 </details>
