@@ -134,9 +134,13 @@ Follow the prompt in Chapter 8 of *Critical Web Design* ...
 
 ### Data sources
 
-- [faker.js](https://fakerjs.dev/), [Codepen example](https://codepen.io/owenmundy/pen/zxYWpaL?editors=1010)
-- [Tracery](https://tracery.io/), and [editor](https://tracery.io/editor/)
-- [public-apis](https://github.com/public-apis/public-apis), [apilist.fun](https://apilist.fun/), and [No Auth APIs](https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/) - free APIs for software and web development. For example: [Cat Facts](https://alexwohlbruck.github.io/cat-facts/) ([API](https://catfact.ninja/fact)), [Free IP Geolocation](https://freegeoip.app/) ([API](https://freegeoip.app/json/)), [Random User](https://randomuser.me/) ([API](https://randomuser.me/api/))
+- Data Sources
+  - [faker.js](https://fakerjs.dev/), [Codepen example](https://codepen.io/owenmundy/pen/zxYWpaL?editors=1010)
+  - [public-apis](https://github.com/public-apis/public-apis), [apilist.fun](https://apilist.fun/), and [No Auth APIs](https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/) - free APIs for software and web development. For example: [Cat Facts](https://alexwohlbruck.github.io/cat-facts/) ([API](https://catfact.ninja/fact)), [Free IP Geolocation](https://freegeoip.app/) ([API](https://freegeoip.app/json/)), [Random User](https://randomuser.me/) ([API](https://randomuser.me/api/))
+- Writing and Grammar Tools
+  - [rita.js](https://github.com/dhowe/ritajs)
+  - [Tracery](https://tracery.io/), and [Tracery editor](https://tracery.io/editor/)
+
 - Other API-driven generative works: [bad-password-api](https://bad-password-api.vercel.app/), Tally [Anonyname](https://tallysavestheinternet.com/get-anonyname/)
 
 <details>
