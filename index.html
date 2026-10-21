@@ -1,19 +1,48 @@
 <!doctype html>
 <html lang="en">
 <head>
-    <!-- meta tags, links to css, etc. -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Generative Design</title>
+    <meta name="theme-color" content="#f1eee6">
+    <title>A Study in Squares — Generative Design</title>
     <link rel="stylesheet" href="assets/css/styles.css">
 </head>
+
+
+<!-- Created 2026 Oct 21 using Copilot chat. Fail, you can't drag the center square to the others. -->
+
 <body>
+    <main class="page">
+        <header class="intro">
+            <p class="eyebrow">An interactive color study</p>
+            <h1>A Study in Squares</h1>
+            <p class="description">Explore shifting color relationships in an original composition inspired by Josef Albers’ <em>Homage to the Square</em> series.</p>
+        </header>
 
-    <!-- visible content goes here -->
-	<h1>Generative Design</h1>
-	<p>See README.md for info</p>
+        <section class="studio" aria-label="Interactive color study">
+            <div class="canvas-frame">
+                <canvas id="study" tabindex="0" role="img" aria-label="Four nested colored squares. Move your pointer or use the arrow keys to shift the innermost square.">
+                    An interactive composition of nested colored squares.
+                </canvas>
+            </div>
 
-    <!-- load javascript after the page elements render -->
+            <div class="controls">
+                <div class="control-row">
+                    <label for="offset">Square displacement <output id="offset-value" for="offset">35%</output></label>
+                    <input id="offset" type="range" min="0" max="100" value="35">
+                </div>
+                <button id="palette-button" type="button">Change palette <span aria-hidden="true">↗</span></button>
+                <button id="reset-button" class="reset-button" type="button">Reset study</button>
+            </div>
+            <p class="instructions" id="instructions">Move across the canvas to shift the center. Use the arrow keys when the artwork is focused.</p>
+            <p class="visually-hidden" id="announcement" aria-live="polite"></p>
+        </section>
+
+        <footer>
+            <span>Color is relative. Look again.</span>
+            <span>Inspired by Josef Albers</span>
+        </footer>
+    </main>
     <script src="assets/js/main.js"></script>
 </body>
 </html>
